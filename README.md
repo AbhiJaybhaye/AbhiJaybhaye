@@ -1,26 +1,58 @@
+<div align="center" >
+  <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+</div>
 
-<h1>Hi 👋, I'm Abhijeet Jaybhaye.</h1>
-<h2>A passionate MERN Stack Developer from India.</h2>
+<h1 align="center">Hi 👋, I'm Abhijeet Jaybhaye</h1>
 
+<h3 align="center">A passionate Full Stack Web Developer from India. </h3>
 
-## 🌐 My Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi.jaybhaye) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-jaybhaye-7b91a7208) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhi_jaybhaye) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi08.official@gmail.com) 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🙋‍♀️ About Me
+- 👩‍🎓 Completed my B.E. journey at **Pune Institute of Computer Technology**.
 
-# 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhiJaybhaye&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbhiJaybhaye&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiJaybhaye&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I’m looking to contribute to **Open Source**
 
-### ✍️ Dev Quote's:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+- 🌱 I’m currently exploring **Android Development**
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=AbhiJaybhaye&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 👩‍💻 Know me more <a href="https://my-08-official-portfolio.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
----
-[![](https://visitcount.itsvg.in/api?id=AbhiJaybhaye&icon=0&color=13)](https://visitcount.itsvg.in)
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abhi08.official@gmail.com" style="text-decoration: none;">Email</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
+### 💻 Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,expressjs" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,git,github,linux,postman,xd" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+  
+### 📊 GitHub Stats:
+![sunidhi014's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunidhi014&theme=radical&hide_border=false)<br/>
+![sunidhi014's Stats](https://github-readme-stats.vercel.app/api?username=sunidhi014&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![sunidhi014's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhi014&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
+[![](https://visitcount.itsvg.in/api?id=sunidhi014&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+  
+### 📬 Reach me out:
+<p align="left">
+<a href = "https://www.linkedin.com/in/abhijeet-jaybhaye-7b91a7208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/abhi.jaybhaye"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
