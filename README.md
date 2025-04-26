@@ -17,9 +17,7 @@
   
 - 🌱 I’m currently exploring **Android Development**.
 
-- 👩‍💻 Know about me more <a href="https://my-08-official-portfolio.netlify.app/" style="text-decoration: none;">Portfolio</a>.
-
-- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=abhi08.official@gmail.com" style="text-decoration: none;">Email</a>.
+- 👩‍💻 Know about me more <a href="https://my-08-official-portfolio.netlify.app/" style="text-decoration: none;" target="_blank">Portfolio</a>.
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
@@ -54,7 +52,7 @@
   
 ### 📬 Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/abhijeet-jaybhaye-7b91a7208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/abhi.jaybhaye"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://mail.google.com/mail/?view=cm&to=abhi08.official@gmail.com"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
+<a href = "https://www.linkedin.com/in/abhijeet-jaybhaye-7b91a7208" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/abhi.jaybhaye" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://mail.google.com/mail/?view=cm&to=abhi08.official@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
 </p>
