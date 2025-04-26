@@ -56,5 +56,5 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/abhijeet-jaybhaye-7b91a7208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/abhi.jaybhaye"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto:abhi08.official@gmail.com"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
+<a href = "https://mail.google.com/mail/?view=cm&to=abhi08.official@gmail.com"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
 </p>
