@@ -1,10 +1,12 @@
 <div align="center" >
-  <img width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR2b2Q4bHZsd2Y5ZjZ1YThubG4wcHk3Z2V1eHJkZmQ3bXFiMjV0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" alt="coding">
+  <img width="250" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47eqm3ycsu2ci0yahwcdiwbkzhsotnlwe2rzzb4vbj&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Abhijeet Jaybhaye</h1>
 
-<h3 align="center">A passionate Full Stack Web Developer from India. </h3>
+<h3 align="center">A passionate</h3>
+<h3 align="center">Full Stack Web Developer,</h3>
+<h3 align="center">from India.</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
