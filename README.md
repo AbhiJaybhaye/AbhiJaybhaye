@@ -43,7 +43,6 @@
   
 ### 📊 GitHub Stats:
 
-![AbhiJaybhaye's Streak](https://streak-stats.demolab.com?user=AbhiJaybhaye&theme=radical&hide_border=false)<br/>
 ![AbhiJaybhaye's Stats](https://github-readme-stats.vercel.app/api?username=AbhiJaybhaye&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
 ![AbhiJaybhaye's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiJaybhaye&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=AbhiJaybhaye&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
