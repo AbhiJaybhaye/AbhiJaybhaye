@@ -52,8 +52,9 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
 </p>
   
-### 📬 Reach out to me:
+### 📬 Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/abhijeet-jaybhaye-7b91a7208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/abhi.jaybhaye"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto:abhi08.official@gmail.com"><img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
 </p>
